@@ -1,0 +1,14 @@
+
+*.pyc
+*.csv
+*.sqlite3
+
+.pytest_cache
+.vscode/
+data/
+db.sqlite3
+.scannerwork/
+migrations/
+migrations/*
+sonar-project.properties
+Archived/
